@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "single-page-app-client-side-solution",
+    "id": "f5cf1aa4-308d-4b01-bbdf-fe3130973d9e",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": true
+  },
+  "paths": {
+    "zippedPackage": "solution/single-page-app.sppkg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.8.1",
+    "libraryName": "single-page-app",
+    "libraryId": "f5cf1aa4-308d-4b01-bbdf-fe3130973d9e",
+    "packageManager": "npm",
+    "isDomainIsolated": true,
+    "componentType": "webpart"
+  }
+}
