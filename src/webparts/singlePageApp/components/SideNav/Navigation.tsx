@@ -34,48 +34,48 @@ export default class Navigation extends React.Component<any> {
                     url: '#/',
                     key: 'key2',
                     isExpanded: true,
-
                   },
                   {
                     name: 'Employee Handbook',
-                    url: '#/Apps',
+                    url: '#/EmployeeHandbook',
                     key: 'key3',
                     isExpanded: true,
                   },
                   {
                     name: 'Employee Volunteering',
-                    url: '#/Pages',
+                    url: '#/EmployeeVolunteering',
                     key: 'key4',
+                    isExpanded: true,
                   },
                   {
                     name: 'Hiring & Employment',
-                    url: '#/Pages',
-                    key: 'key4',
+                    url: '#/HiringAndEmployment',
+                    key: 'key5',
                   },
                   {
                     name: 'Leave & Disability',
-                    url: '#/Pages',
-                    key: 'key4',
+                    url: '#/LeaveAndDisability',
+                    key: 'key6',
                   },
                   {
                     name: 'Personal Conduct',
-                    url: '#/Pages',
-                    key: 'key4',
+                    url: '#/PersonalConduct',
+                    key: 'key7',
                   },
                   {
                     name: 'Puerto Rico Polocies',
-                    url: '#/Pages',
-                    key: 'key4',
+                    url: '#/PuertoRicoPolocies',
+                    key: 'key8',
                   },
                   {
                     name: 'Time & Attendance',
-                    url: '#/Pages',
-                    key: 'key4',
+                    url: '#/TimeAndAttendance',
+                    key: 'key9',
                   },
                   {
                     name: 'Workplace Policies',
-                    url: '#/Pages',
-                    key: 'key4',
+                    url: '#/WorkplacePolocies',
+                    key: 'key10',
                   }
                 ]
               }
