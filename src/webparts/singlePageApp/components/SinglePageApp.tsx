@@ -26,7 +26,7 @@ export default class SinglePageApp extends React.Component<ISinglePageAppProps, 
           <Navigation />
           <StackItem grow={2}>
             <Switch>
-              <Route path='/' exact={true} component={() => <HomePage  {...this.props} />} />
+              <Route path='/' exact={true} component={() => <AppPage  {...this.props} />} />
               <Route path='/Apps' component={() => <AppPage  {...this.props} />} />
               <Route path='/EmployeeHandbook' component={() => <EmployeeHandbook  {...this.props} />} />
               <Route path='/EmployeeVolunteering' component={() => <EmployeeVolunteering  {...this.props} />} />
